@@ -129,9 +129,49 @@ body {
   font-weight: 400;
 }
 
+#blog h3 {
+  font-family: "Roboto Slab", serif;
+  font-size: 26px;
+  font-weight: 500;
+  color: #07a173;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+#skills {
+  margin-bottom: 50px;
+}
+
+#skills h3 {
+  font-family: "Roboto Slab", serif;
+  font-size: 26px;
+  font-weight: 500;
+  color: #07a173;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+#skills h4 {
+  font-family: "Roboto Slab", serif;
+  font-size: 24px;
+  color: #282c41;
+  font-weight: 400;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#contact-me h3 {
+  font-family: "Roboto Slab", serif;
+  font-size: 26px;
+  font-weight: 500;
+  color: #07a173;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
 footer {
   border-top: 1px solid #e4e4e4;
-  margin-top: 150px;
+  margin-top: 100px;
 }
 
 footer p {
