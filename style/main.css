@@ -177,4 +177,12 @@ footer {
 footer p {
   color: #979797;
 }
+
+@media (max-width: 576px) {
+  .page-content img {
+    max-height: 350px;
+    max-width: 250px;
+    margin-bottom: 15px;
+  }
+}
 /*# sourceMappingURL=main.css.map */
